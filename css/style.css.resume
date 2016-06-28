@@ -1,0 +1,20 @@
+body{
+	background-color:#FBCBA3;
+	font-family: didot;
+}
+
+h2{
+	text-decoration: underline;
+}
+
+img{
+	width: 15%;
+}
+
+p{
+	color:#006B56;
+}
+
+a{
+	color: #006B56
+}
